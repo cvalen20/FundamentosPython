@@ -1,0 +1,5 @@
+Material de apoyo para el curso Fundamentos de programación en Python
+
+Sesiones en video disponibles en:
+
+https://www.youtube.com/watch?v=pwKPUj_M2zQ&list=PL2vqHUEUyf7bDHE84P-N6U1l3ibp6fbPy
